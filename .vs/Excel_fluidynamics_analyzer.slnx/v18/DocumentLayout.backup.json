@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mcope\\source\\repos\\Excel_fluidynamics_analyzer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{817BC112-C4BC-6260-01CC-581032449AA4}|Excel_fluidynamics_analyzer\\Excel_fluidynamics_analyzer.csproj|c:\\users\\mcope\\source\\repos\\excel_fluidynamics_analyzer\\excel_fluidynamics_analyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817BC112-C4BC-6260-01CC-581032449AA4}|Excel_fluidynamics_analyzer\\Excel_fluidynamics_analyzer.csproj|solutionrelative:excel_fluidynamics_analyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mcope\\source\\repos\\Excel_fluidynamics_analyzer\\Excel_fluidynamics_analyzer\\Program.cs",
+              "RelativeDocumentMoniker": "Excel_fluidynamics_analyzer\\Program.cs",
+              "ToolTip": "C:\\Users\\mcope\\source\\repos\\Excel_fluidynamics_analyzer\\Excel_fluidynamics_analyzer\\Program.cs*",
+              "RelativeToolTip": "Excel_fluidynamics_analyzer\\Program.cs*",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAAwO8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T14:22:31.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
